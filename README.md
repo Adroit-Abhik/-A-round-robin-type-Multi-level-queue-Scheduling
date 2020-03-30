@@ -10,3 +10,7 @@
   algorithm on the queue with lowest range of priority. Each and every queue should get a quantum
   time of 10 seconds. CPU will keep on shifting between queues after every 10 seconds. 
 
+## Dependencies:
+   * python 3.4 or above
+   * prettytable
+   * matplotlib
