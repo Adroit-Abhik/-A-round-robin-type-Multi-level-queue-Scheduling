@@ -16,5 +16,5 @@
    * matplotlib
 ### Run `M1_final.py` to get the output
 ### Snapshot of the outputs:
-   ![Queue gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/master/gnt1.png)
-   ![Process gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/master/gnt2.png)
+   ![Queue gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/blob/master/gnt1.png)
+   ![Process gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/blob/master/gnt2.png)
