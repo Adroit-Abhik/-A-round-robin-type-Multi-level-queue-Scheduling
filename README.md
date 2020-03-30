@@ -14,7 +14,7 @@
    * python 3.4 or above
    * prettytable
    * matplotlib
-  Run `M1_final.py` to get the output
+### Run `M1_final.py` to get the output
 ### Snapshot of the outputs:
-   ![Queue gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/master/gantt1.png)
-   ![Process gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/master/gantt12.png)
+   ![Queue gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/master/gnt1.png)
+   ![Process gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/master/gnt2.png)
