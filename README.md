@@ -1,6 +1,6 @@
-# A-round-robin-type-Multi-level-queue-Scheduling
+## A-round-robin-type-Multi-level-queue-Scheduling
 
-## Problem Statement:
+### Problem Statement:
   Write a program for multilevel queue scheduling algorithm. There must be three queues
   generated. There must be specific range of priority associated with every queue. Now prompt the
   user to enter number of processes along with their priority and burst time. Each process must
@@ -10,7 +10,11 @@
   algorithm on the queue with lowest range of priority. Each and every queue should get a quantum
   time of 10 seconds. CPU will keep on shifting between queues after every 10 seconds. 
 
-## Dependencies:
+### Dependencies:
    * python 3.4 or above
    * prettytable
    * matplotlib
+  Run `M1_final.py` to get the output
+### Snapshot of the outputs:
+   ![Queue gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/master/gantt1.png)
+   ![Process gantt chart](https://github.com/Adroit-Abhik/-A-round-robin-type-Multi-level-queue-Scheduling/master/gantt12.png)
