@@ -27,7 +27,7 @@ class Process:
 
     def calc_waiting_time(self):
         self.waiting_time = self.turnaround_time - self.burst_time
-        return self.burst_time
+        return self.waiting_time
 
 
 class Queue:
